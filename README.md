@@ -1,0 +1,1 @@
+This repository demonstrates a subtle data type issue in COBOL that can lead to unexpected behavior during comparisons. The issue occurs when comparing numeric fields that have different implied decimal points. The bug.cob file contains the erroneous code, while bugSolution.cob provides the corrected version.  The bug is explained in detail in the comments within the code files.
